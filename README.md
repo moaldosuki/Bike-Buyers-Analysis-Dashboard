@@ -1,8 +1,6 @@
 # Bike-Buyers-Analysis-Dashboard
-Here's a professional description of your project that you can use to showcase it on LinkedIn:
 
 ---
-
 **Project Title: Bike Buyers Analysis Dashboard**
 
 **Project Overview:**

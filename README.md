@@ -22,5 +22,7 @@ The *Bike Buyers Analysis* project is a comprehensive data analysis initiative a
 
 **Results:**
 The dashboard revealed critical insights, including how specific demographic groups are more likely to purchase bikes, allowing the company to tailor its marketing strategies. It also highlighted income segments and age groups with the highest potential for targeting, which can optimize product offerings.
-![Desktop Screenshot 2024 10 03 - 09 24 19 96](https://github.com/user-attachments/assets/39f3af30-a666-472a-895e-0b0c5472de72)
+![Screenshot 2024-10-29 06-30-17](https://github.com/user-attachments/assets/751c52be-c10e-44e1-aa22-805c41095a7d)
+
+
 
